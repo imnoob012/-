@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-body{
+body {
   padding: 0;
   margin:0;
   font-weight: 500;
@@ -12,7 +12,7 @@ body{
 
 }
 
-a{
+a {
   text-decoration: none;
   
 }
@@ -29,7 +29,7 @@ a{
   transition: .2s;
 }
 
-header{
+header {
   display: flex;
   justify-content:space-between;
   width: 100%;
